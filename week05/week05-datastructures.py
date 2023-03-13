@@ -44,7 +44,8 @@ p is a trick question look at it carefully
 p. me["teaching"][0]["coursename"]
 '''
 
-# Answer = 
+# JF Answers =
+# a. 
 
 
 
