@@ -27,3 +27,15 @@ Answer:
 
 2. I don't know...
 '''
+
+'''
+Correct Answer:
+1.  7
+    13
+This is because the write function returns the number of characters
+writing to the file this includes the new line character, I have not tested this on a windows machine
+(it may be one more).
+
+2. Another line
+The file will be overwritten when we open the file in write mode (again)
+'''

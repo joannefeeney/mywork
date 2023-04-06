@@ -9,7 +9,7 @@ with open("test-d.txt", "w") as f:
     print (data)
 with open("test-d.txt", "a") as f2: # open file again
     data = f2.write("another line\n")
-     print (data)
+    print (data)
 
 
 '''
@@ -20,4 +20,8 @@ Look at the modified program above, what will the contents of the file be after 
 '''
 Answer:
 I don't know...
+
+Correct Answer:
+Another line
+This time we open the file in append mode, so the file is not overwritten
 '''
